@@ -1,10 +1,5 @@
 ### Hi, I'm Amanda! 👩 👋
 
-I am graduated in ADS <p>
-Postgraduate in Software Architecture <p>
-I have 1 year and 7 months experience as a FullStack Developer<p>
-Currently my focus is Front-end <p>
-
 <div> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
