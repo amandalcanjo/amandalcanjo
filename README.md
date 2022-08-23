@@ -1,4 +1,4 @@
-### Hi, I'm Amanda! 👩 👋
+## Hi, I'm Amanda! 👩 👋
 
 I have 1 year and 7 months experience as a FullStack Developer<p>
 Currently my focus is Front-end <p>
@@ -8,11 +8,14 @@ Currently my focus is Front-end <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
 </div>
 
+---
 ### ❤️ Let's get connected:
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amandalcanjo?igshid=YmMyMTA2M2Y=)
 
+---
 ### 💻 Technologies and Tools I use:
 
 <div>
