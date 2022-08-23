@@ -4,15 +4,9 @@ I have 1 year and 7 months experience as a FullStack Developer<p>
 Currently my focus is Front-end <p>
 
 <div> 
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
 </div>
-
-### ❤️ Let's get connected:
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amandalcanjo?igshid=YmMyMTA2M2Y=)
 
 ### 💻 Technologies and Tools I use:
 
@@ -30,6 +24,12 @@ Currently my focus is Front-end <p>
 <img align="centeer" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 ---
+
+### ❤️ Let's get connected:
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amandalcanjo?igshid=YmMyMTA2M2Y=)
 
 ![0_VV3Nmxgv3KX4sLhr (1)](https://user-images.githubusercontent.com/81193788/186281654-50fe8b8d-727a-4559-ae2d-a740c1f30e12.gif)
 </div>
