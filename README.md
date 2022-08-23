@@ -4,8 +4,8 @@ I have 1 year and 7 months experience as a FullStack Developer<p>
 Currently my focus is Front-end <p>
 
 <div> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
 </div>
 
 ### ❤️ Let's get connected:
@@ -29,5 +29,7 @@ Currently my focus is Front-end <p>
 <img align="centeer" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="centeer" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
+---
 
+![0_VV3Nmxgv3KX4sLhr (1)](https://user-images.githubusercontent.com/81193788/186281654-50fe8b8d-727a-4559-ae2d-a740c1f30e12.gif)
 </div>
