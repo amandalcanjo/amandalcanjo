@@ -8,7 +8,7 @@ Atualmente meu foco é Front-end <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
 </div>
 
-### 💻 Technologies and Tools I use:
+## 💻 Technologies and Tools I use:
 
 <div>
 
@@ -25,7 +25,7 @@ Atualmente meu foco é Front-end <p>
 
 ---
 
-### ❤️ Let's get connected:
+## ❤️ Let's get connected:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
