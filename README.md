@@ -1,7 +1,7 @@
-## Hi, I'm Amanda! 👩 👋
+# Hi, I'm Amanda! 👩 👋
 
-I have 1 year and 7 months experience as a FullStack Developer<p>
-Currently my focus is Front-end <p>
+Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack<p>
+Atualmente meu foco é Front-end <p>
 
 <div> 
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
