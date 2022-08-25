@@ -30,6 +30,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amandalcanjo?igshid=YmMyMTA2M2Y=)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://alcanjo-portfolio.netlify.app/)
 
 ![0_VV3Nmxgv3KX4sLhr (1)](https://user-images.githubusercontent.com/81193788/186281654-50fe8b8d-727a-4559-ae2d-a740c1f30e12.gif)
 </div>
