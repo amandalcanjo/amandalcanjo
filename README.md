@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda Alcanjo 👩 </h1>
-<h3 align="center">Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack.<br>
+<h3 align="center">⚡ Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack.<br>
 Atualmente meu foco é Front-end</h3>
 
 <div align="center">
