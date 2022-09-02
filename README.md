@@ -35,7 +35,7 @@ Atualmente meu foco é Front-end</h3>
 <a href="https://instagram.com/amandalcanjo" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
- <a href="https://alcanjo-portfolio.netlify.app/" target="_blank">
+ <a href="https://portfolio-amandalcanjo.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-E44C30?style=for-the-badge&logo=git&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a> 
 </div> 
