@@ -1,9 +1,9 @@
-# Hi, I'm Amanda! 👩 👋
-
-<p>Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack</p>
-<p>Atualmente meu foco é Front-end </p>
+<h1 align="center">Hi 👋, I'm Amanda Alcanjo 👩 </h1>
+<h3 align="center">Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack.<br>
+Atualmente meu foco é Front-end</h3>
 
 <div> 
+
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
 </div>
