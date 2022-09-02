@@ -4,23 +4,23 @@ Atualmente meu foco é Front-end</h3>
 
 <div align="center">
 
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalcanjo&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalcanjo&layout=compact&theme=dracula"/>
 </div>
 
 <h2 align="center">💻 Technologies and Tools I use:</h2>
 
 <div align="center">
 
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="amanda-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 <br>
  
