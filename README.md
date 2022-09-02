@@ -45,5 +45,6 @@ Atualmente meu foco é Front-end</h3>
  
  <br>
 
-![0_VV3Nmxgv3KX4sLhr (1)](https://user-images.githubusercontent.com/81193788/186281654-50fe8b8d-727a-4559-ae2d-a740c1f30e12.gif)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22t7vam6lpszicekssv4wqmti&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
+
