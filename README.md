@@ -33,11 +33,10 @@ Atualmente meu foco é Front-end</h3>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/amandalcanjo" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-6A5ACD?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
- <a href="https://portfolio-amandalcanjo.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=git&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a> 
+       <img src=https://img.shields.io/badge/portfólio-C71585?style=for-the-badge&logo=ko-fi&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+        </a>
 </div> 
  
  <br>
