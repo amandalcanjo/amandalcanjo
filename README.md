@@ -41,10 +41,9 @@ Atualmente meu foco é Front-end</h3>
 </div> 
  
  <br>
- 
- 
+  
  <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22t7vam6lpszicekssv4wqmti&cover_image=true&theme=default)](https://github.com/amandalcanjo)
+![eraserhead-thumbs-up-eraserhead](https://user-images.githubusercontent.com/81193788/188295224-f7054fd1-c9de-48e1-92ca-e71a5cd37362.gif)
 </div>
 
