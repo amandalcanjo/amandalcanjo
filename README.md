@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanda 👩 </h1>
-<h3 align="center">⚡ Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack.<br>
-Atualmente meu foco é Front-end</h3>
+<p align="center">⚡ Tenho 1 ano e 7 meses de experiência como desenvolvedora Full Stack.<br>
+Atualmente meu foco é Front-end</p>
 
 <div align="center">
 
@@ -12,15 +12,15 @@ Atualmente meu foco é Front-end</h3>
 
 <div align="center">
 
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="amanda-html" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="amanda-html" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 <br>
  
